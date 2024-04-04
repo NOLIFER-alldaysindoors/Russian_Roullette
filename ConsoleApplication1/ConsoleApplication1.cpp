@@ -1,6 +1,7 @@
 ﻿// ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+// Produced by NOLIFER-alldaysindoors.
+//Inlcude me in the code if you use it for whatever means you want to. All I request
 #include <iostream>
 #include <vector>
 #include <random>
